@@ -1,0 +1,12 @@
+frmMTSAdmin = 44, 44, 697, 529, , 22, 22, 675, 507, C
+frmExport = 132, 132, 763, 621, C, 132, 132, 763, 621, C
+frmAddComponent = 0, 0, 631, 489, Z, 154, 154, 785, 643, C
+frmAddPackage = 22, 22, 653, 511, C, 176, 176, 807, 665, C
+frmPackageProperties = 88, 88, 763, 514, C, 198, 198, 829, 687, C
+frmComponentProperties = 191, 42, 822, 531, C, -2, 22, 629, 511, C
+frmInterfaceProperties = 0, 0, 0, 0, C, 242, 242, 873, 731, C
+frmMethodProperties = 0, 0, 0, 0, C, 0, 0, 631, 489, C
+modMTSAdminClient = 154, 154, 896, 600, C
+CError = 110, 110, 855, 681, C
+CRegistry = 198, 198, 943, 769, C
+MUncName = 0, 0, 0, 0, C
